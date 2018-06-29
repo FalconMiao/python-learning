@@ -1,0 +1,2 @@
+# python-learning
+take notes.
